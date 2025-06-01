@@ -1,2 +1,0 @@
-# CODMETRIC
-Internship task
